@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Current Affairs 2023
+> This is for easy viewing of my current affairs notes on web
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##Sources- Insights IAS Current Affairs
+- The Hindu
+- Indian Express
+- Down To Earth
