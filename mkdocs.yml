@@ -192,6 +192,5 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.prefetch 
-    - navigation.expand
   palette:
     primary: blue grey
