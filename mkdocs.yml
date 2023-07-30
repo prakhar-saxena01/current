@@ -192,3 +192,11 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.expand
+    - navigation.path
+    - navigation.prune 
+    - navigation.indexes
+    - navigation.top
+  plugins:
+    - search
+
