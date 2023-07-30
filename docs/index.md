@@ -1,7 +1,30 @@
 # Welcome to Current Affairs 2023
  This is for easy viewing of my current affairs notes on web
 
-## Sources- Insights IAS Current Affairs
-- The Hindu
-- Indian Express
-- Down To Earth
+[2023-01-02](https://currentaffairs.pages.dev/January/2023-01-02/)
+[2023-01-03](https://currentaffairs.pages.dev/January/2023-01-03/)
+[2023-01-04](https://currentaffairs.pages.dev/January/2023-01-04/)
+[2023-01-05](https://currentaffairs.pages.dev/January/2023-01-05/)
+[2023-01-06](https://currentaffairs.pages.dev/January/2023-01-06/)
+[2023-01-07](https://currentaffairs.pages.dev/January/2023-01-07/)
+[2023-01-09](https://currentaffairs.pages.dev/January/2023-01-09/)
+[2023-01-10](https://currentaffairs.pages.dev/January/2023-01-10/)
+[2023-01-11](https://currentaffairs.pages.dev/January/2023-01-11/)
+[2023-01-12](https://currentaffairs.pages.dev/January/2023-01-12/)
+[2023-01-13](https://currentaffairs.pages.dev/January/2023-01-13/)
+[2023-01-14](https://currentaffairs.pages.dev/January/2023-01-14/)
+[2023-01-16](https://currentaffairs.pages.dev/January/2023-01-16/)
+[2023-01-17](https://currentaffairs.pages.dev/January/2023-01-17/)
+[2023-01-18](https://currentaffairs.pages.dev/January/2023-01-18/)
+[2023-01-19](https://currentaffairs.pages.dev/January/2023-01-19/)
+[2023-01-20](https://currentaffairs.pages.dev/January/2023-01-20/)
+[2023-01-21](https://currentaffairs.pages.dev/January/2023-01-21/)
+[2023-01-23](https://currentaffairs.pages.dev/January/2023-01-23/)
+[2023-01-24](https://currentaffairs.pages.dev/January/2023-01-24/)
+[2023-01-25](https://currentaffairs.pages.dev/January/2023-01-25/)
+[2023-01-26](https://currentaffairs.pages.dev/January/2023-01-26/)
+[2023-01-27](https://currentaffairs.pages.dev/January/2023-01-27/)
+[2023-01-28](https://currentaffairs.pages.dev/January/2023-01-28/)
+[2023-01-30](https://currentaffairs.pages.dev/January/2023-01-30/)
+[2023-01-31](https://currentaffairs.pages.dev/January/2023-01-31/)
+
