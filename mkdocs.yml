@@ -188,6 +188,10 @@ nav:
              - July/2023-07-28.md
              - July/2023-07-29.md
 theme:
-  name: material
+  name: material    
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch 
+    - navigation.expand
   palette:
     primary: blue grey
