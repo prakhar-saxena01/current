@@ -194,4 +194,3 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.expand
-    - navigation.prune
