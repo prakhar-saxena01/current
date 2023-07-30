@@ -187,8 +187,7 @@ nav:
              - July/2023-07-27.md
              - July/2023-07-28.md
              - July/2023-07-29.md
-theme:
-  name: material    
+theme: 'windmill'    
   features:
     - navigation.instant
     - navigation.instant.prefetch 
