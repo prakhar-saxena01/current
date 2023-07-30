@@ -194,8 +194,4 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.expand
-    - navigation.path
     - navigation.prune
-  plugins:
-    - search
-
