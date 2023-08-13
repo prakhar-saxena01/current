@@ -222,3 +222,7 @@ theme:
     - navigation.indexes
   palette: 
     primary: blue grey
+  plugins:
+    - search
+    - mkpdfs:
+        author: Prakhar Saxena
