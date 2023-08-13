@@ -219,5 +219,6 @@ theme:
     - navigation.prune
     - navigation.top
     - navigation.footer
+    - navigation.indexes
   palette: 
     primary: blue grey
