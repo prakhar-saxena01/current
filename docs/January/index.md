@@ -7,7 +7,7 @@
 [2023-01-06](https://currentaffairs.pages.dev/January/2023-01-06)<br>
 [2023-01-07](https://currentaffairs.pages.dev/January/2023-01-07)<br>
 [2023-01-09](https://currentaffairs.pages.dev/January/2023-01-09)<br>
-[2023-01-10(https://currentaffairs.pages.dev/January/2023-01-10) <br>
+[2023-01-10](https://currentaffairs.pages.dev/January/2023-01-10) <br>
 [2023-01-11](https://currentaffairs.pages.dev/January/2023-01-11)<br>
 [2023-01-12](https://currentaffairs.pages.dev/January/2023-01-12)<br>
 [2023-01-13](https://currentaffairs.pages.dev/January/2023-01-13)<br>
