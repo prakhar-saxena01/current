@@ -17,3 +17,4 @@
 [2023-08-17](https://currentaffairs.pages.dev/August/2023-08-17)<br>
 [2023-08-18](https://currentaffairs.pages.dev/August/2023-08-18)<br>
 [2023-08-19](https://currentaffairs.pages.dev/August/2023-08-19)<br>
+[2023-08-21](https://currentaffairs.pages.dev/August/2023-08-21)<br>
