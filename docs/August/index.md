@@ -22,3 +22,4 @@
 [2023-08-23](https://currentaffairs.pages.dev/August/2023-08-23)<br>
 [2023-08-24](https://currentaffairs.pages.dev/August/2023-08-24)<br>
 [2023-08-25](https://currentaffairs.pages.dev/August/2023-08-25)<br>
+[2023-08-26](https://currentaffairs.pages.dev/August/2023-08-26)<br>
