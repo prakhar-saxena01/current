@@ -262,7 +262,7 @@ nav:
              - September/2023-09-30.md
              
 theme:
-  name: gitbook
+  name: material
   features:
     - navigation.instant
     - navigation.instant.prefetch
